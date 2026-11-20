@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ShopKart India · Sales & Customer Dashboard</title>
+<meta name="description" content="Interactive sales, customer and operations dashboard for ShopKart India, 2023–2024. Built on 52K orders.">
+<link rel="preconnect" href="https://api.fontshare.com">
+<link href="https://api.fontshare.com/v2/css?f[]=general-sans@400,500,600,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <svg class="logo" viewBox="0 0 32 32" aria-label="ShopKart" role="img"><rect width="32" height="32" rx="8" fill="currentColor"/><path d="M9 19.5c1.4 1.6 3.6 2.5 6.4 2.5 3.4 0 5.6-1.5 5.6-3.9 0-4.9-11-2.8-11-7.3 0-1.7 1.8-2.8 4.6-2.8 2 0 3.7.6 4.9 1.7" fill="none" stroke="var(--color-surface)" stroke-width="2.6" stroke-linecap="round"/></svg>
+    <div>
+      <h1>ShopKart India</h1>
+      <p class="sub">Sales &amp; customer performance · Jan 2023 – Dec 2024</p>
+    </div>
+  </div>
+  <nav class="tabs" role="tablist" aria-label="Dashboard views">
+    <button role="tab" aria-selected="true" data-tab="overview" data-testid="tab-overview">Overview</button>
+    <button role="tab" aria-selected="false" data-tab="customers" data-testid="tab-customers">Customers</button>
+    <button role="tab" aria-selected="false" data-tab="operations" data-testid="tab-operations">Operations</button>
+  </nav>
+  <button class="icon-btn" data-theme-toggle aria-label="Switch to dark mode" data-testid="button-theme"></button>
+</header>
+
+<section class="filters" aria-label="Filters">
+  <label>Year<select id="f-year" data-testid="select-year"><option value="all">All years</option><option value="2023">2023</option><option value="2024">2024</option></select></label>
+  <label>Region<select id="f-region" data-testid="select-region"></select></label>
+  <label>Category<select id="f-cat" data-testid="select-category"></select></label>
+  <label>Payment<select id="f-pay" data-testid="select-payment"></select></label>
+  <label>Channel<select id="f-ch" data-testid="select-channel"></select></label>
+  <button id="f-reset" class="ghost" data-testid="button-reset">Reset</button>
+  <span class="scope" id="scope" data-testid="text-scope"></span>
+</section>
+
+<main>
+  <!-- OVERVIEW -->
+  <div class="view" id="v-overview">
+    <div class="kpis" id="kpi-overview"></div>
+    <div class="grid g-2-1">
+      <article class="card">
+        <header><h2>Monthly net revenue &amp; gross margin</h2><span class="hint">Shaded = festive sale (1 Oct – 15 Nov)</span></header>
+        <div class="chart tall"><canvas id="c-trend"></canvas></div>
+      </article>
+      <article class="card insights">
+        <header><h2>Key insights</h2><span class="hint">All data</span></header>
+        <ol>
+          <li><b>Festive sales cut margin by more than half.</b> Revenue/day +33%, but margin drops from 27.9% to 10.5%.</li>
+          <li><b>Electronics: #2 in revenue, 9% margin.</b> It also loses money during festive sales.</li>
+          <li><b>COD orders fail 3.5× more often.</b> RTO is 6.9% vs ~2% for prepaid.</li>
+          <li><b>Slow first delivery loses customers.</b> 7+ days → 40% repeat rate vs 63% for 1–2 days.</li>
+          <li><b>897 high-value customers at risk.</b> ₹93 L in historic revenue to win back.</li>
+        </ol>
+      </article>
+    </div>
+    <div class="grid g-3-2">
+      <article class="card">
+        <header><h2>Category performance</h2><span class="hint">Click a row to filter</span></header>
+        <div class="table-wrap"><table id="t-cat" class="data"></table></div>
+      </article>
+      <article class="card">
+        <header><h2>Net revenue by region</h2></header>
+        <div class="chart"><canvas id="c-region"></canvas></div>
+      </article>
+    </div>
+    <article class="card">
+      <header><h2>Top 10 products</h2><span class="hint">By net revenue</span></header>
+      <div class="table-wrap"><table id="t-prod" class="data"></table></div>
+    </article>
+  </div>
+
+  <!-- CUSTOMERS -->
+  <div class="view" id="v-customers" hidden>
+    <div class="kpis" id="kpi-customers"></div>
+    <div class="grid g-2-1">
+      <article class="card">
+        <header><h2>New vs returning customers</h2><span class="hint">Distinct customers ordering each month</span></header>
+        <div class="chart tall"><canvas id="c-newret"></canvas></div>
+      </article>
+      <article class="card">
+        <header><h2>Revenue per customer by channel</h2></header>
+        <div class="chart tall"><canvas id="c-channel"></canvas></div>
+      </article>
+    </div>
+    <article class="card">
+      <header><h2>RFM segments</h2><span class="hint">All data · scored on recency, frequency and spend</span></header>
+      <div class="table-wrap"><table id="t-rfm" class="data"></table></div>
+    </article>
+    <article class="card">
+      <header><h2>Monthly cohort retention</h2><span class="hint">All data · % of first-order cohort ordering again</span></header>
+      <div class="table-wrap"><table id="t-cohort" class="cohort"></table></div>
+    </article>
+  </div>
+
+  <!-- OPERATIONS -->
+  <div class="view" id="v-operations" hidden>
+    <div class="kpis" id="kpi-operations"></div>
+    <div class="grid g-1-1">
+      <article class="card">
+        <header><h2>Failed orders by payment method</h2><span class="hint">% of orders</span></header>
+        <div class="chart tall"><canvas id="c-pay"></canvas></div>
+      </article>
+      <article class="card">
+        <header><h2>Repeat rate by first-order delivery time</h2></header>
+        <div class="chart tall"><canvas id="c-deliv"></canvas></div>
+      </article>
+    </div>
+    <div class="grid g-1-1">
+      <article class="card">
+        <header><h2>Festive vs rest-of-year margin</h2><span class="hint">Gross margin % by category</span></header>
+        <div class="chart tall"><canvas id="c-fest"></canvas></div>
+      </article>
+      <article class="card">
+        <header><h2>Delivery speed by city tier</h2><span class="hint">Avg days · delivered orders</span></header>
+        <div class="chart tall"><canvas id="c-tier"></canvas></div>
+      </article>
+    </div>
+  </div>
+</main>
+
+<footer class="foot">
+  Data: synthetic dataset (fictional company) · 52,007 orders · 81,127 order lines · 12,000 customers ·
+  Net revenue = delivered, non-returned items · Built by K. Manohar
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+segment,customers,revenue,avg_recency,avg_orders,avg_value,cust_%,rev_%
+Champions,2709,31722387.5,50.6,8.1,11710.0,24.8,50.2
+Loyal,1940,12319482.4,170.1,4.3,6350.2,17.7,19.5
+At Risk (high value),897,9348383.7,424.9,7.0,10421.8,8.2,14.8
+Needs Attention,1974,4920671.8,349.4,1.7,2492.7,18.1,7.8
+Hibernating / Lost,2457,3440295.6,517.0,1.0,1400.2,22.5,5.4
+New / Promising,953,1400777.8,87.1,1.0,1469.9,8.7,2.2

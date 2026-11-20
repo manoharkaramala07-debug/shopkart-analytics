@@ -1,0 +1,97 @@
+year  orders  customers  net_revenue_cr  gross_profit_cr  aov_inr
+----  ------  ---------  --------------  ---------------  -------
+2023  20372   6269       2.5             0.62             1479.0 
+2024  31635   8022       3.81            0.96             1444.0 
+month    net_rev_lakh  mom_growth_pct
+-------  ------------  --------------
+2023-01  7.1                         
+2023-02  9.2           28.5          
+2023-03  13.3          45.2          
+2023-04  16.4          23.2          
+2023-05  19.0          15.6          
+2023-06  18.5          -2.5          
+2023-07  22.3          20.7          
+2023-08  26.5          18.8          
+2023-09  22.8          -13.9         
+2023-10  27.7          21.4          
+2023-11  33.8          21.9          
+2023-12  33.4          -1.1          
+2024-01  28.7          -14.2         
+2024-02  28.5          -0.7          
+2024-03  28.5          0.2           
+2024-04  29.7          4.0           
+2024-05  27.6          -6.8          
+2024-06  28.3          2.4           
+2024-07  33.9          19.9          
+2024-08  35.9          5.7           
+2024-09  32.9          -8.3          
+2024-10  36.2          10.1          
+2024-11  42.4          17.2          
+2024-12  28.9          -31.9         
+category          net_rev_lakh  gross_margin_pct  return_rate_pct  avg_discount_pct
+----------------  ------------  ----------------  ---------------  ----------------
+Fashion           166.8         37.0              12.5             19.3            
+Electronics       147.4         9.1               8.5              19.0            
+Home & Kitchen    110.1         25.5              7.3              19.4            
+Beauty            75.3          39.5              6.6              19.4            
+Grocery           66.6          11.3              5.7              19.3            
+Sports & Fitness  48.0          28.6              6.3              19.2            
+Books             17.3          23.6              5.4              19.2            
+category          product_id  net_rev   rnk
+----------------  ----------  --------  ---
+Electronics       P1055       695281.0  1  
+Electronics       P1065       543092.0  2  
+Fashion           P1149       317972.0  1  
+Fashion           P1160       311039.0  2  
+Home & Kitchen    P1256       286433.0  1  
+Home & Kitchen    P1257       281263.0  2  
+Grocery           P1403       201006.0  1  
+Grocery           P1394       175334.0  2  
+Sports & Fitness  P1505       172082.0  1  
+Beauty            P1316       166753.0  1  
+payment_method  orders  cancel_pct  rto_pct
+--------------  ------  ----------  -------
+COD             13012   7.1         6.9    
+Net Banking     2020    6.6         2.1    
+Debit Card      3532    6.9         2.1    
+UPI             23082   6.9         2.0    
+Credit Card     5426    6.6         1.9    
+EMI             1958    7.2         1.8    
+Wallet          3009    7.4         1.4    
+region   city_tier  customers  rev_per_customer  avg_delivery_days
+-------  ---------  ---------  ----------------  -----------------
+Central  2          790        4938.0            4.0              
+East     1          748        5618.0            2.7              
+East     2          217        4400.0            4.1              
+East     3          131        4360.0            5.3              
+North    1          1571       5125.0            2.7              
+North    2          1423       4441.0            4.0              
+South    1          3293       5503.0            2.7              
+South    2          425        4440.0            4.0              
+West     1          3063       5680.0            2.7              
+West     2          338        5167.0            4.0              
+acquisition_channel  customers  repeat_rate_pct  avg_orders  avg_ltv_inr
+-------------------  ---------  ---------------  ----------  -----------
+Referral             1475       60.3             5.26        6257.0     
+Organic Search       3390       59.8             4.65        5726.0     
+Email                956        61.4             4.8         5498.0     
+Paid Social          2637       57.9             3.77        4897.0     
+Google Ads           2429       60.5             4.14        4878.0     
+Influencer           1113       56.3             3.53        4038.0     
+first_delivery  customers  repeat_rate_pct
+--------------  ---------  ---------------
+1-2 days        3707       63.2           
+3-4 days        5427       61.5           
+5-6 days        1525       53.5           
+7+ days         83         39.8           
+coupon_code  orders  aov     margin_pct
+-----------  ------  ------  ----------
+NONE         24110   1503.0  26.8      
+WELCOME10    12514   1462.0  25.7      
+FEST20       7363    1340.0  18.5      
+LOYAL5       4061    1426.0  24.3      
+FLAT150      3959    1424.0  25.0      
+period        net_rev_per_day_lakh  margin_pct  avg_discount_pct
+------------  --------------------  ----------  ----------------
+Festive sale  1.1                   10.5        32.4            
+Rest of year  0.83                  27.9        16.3            

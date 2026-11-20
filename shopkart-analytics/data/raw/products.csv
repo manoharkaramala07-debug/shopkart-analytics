@@ -1,0 +1,588 @@
+product_id,product_name,category,sub_category,brand,mrp,unit_cost
+P1000,UrbanLoom Mobiles 381,Electronics,Mobiles,UrbanLoom,19049,14145.62
+P1001,Zentra Mobiles 594,Electronics,Mobiles,Zentra,8839,6395.36
+P1002,Mithas Mobiles 615,Electronics,Mobiles,Mithas,1789,1339.64
+P1003,Boltix Mobiles 914,Electronics,Mobiles,Boltix,499,363.61
+P1004,Boltix Mobiles 187,Electronics,Mobiles,Boltix,27199,19758.71
+P1005,Trendz Mobiles 174,Electronics,Mobiles,Trendz,26599,19092.34
+P1006,Kalpa Mobiles 593,Electronics,Mobiles,Kalpa,1709,1280.84
+P1007,Boltix Mobiles 112,Electronics,Mobiles,Boltix,4869,3604.41
+P1008,Fitora Mobiles 327,Electronics,Mobiles,Fitora,25599,18625.43
+P1009,Trendz Mobiles 429,Electronics,Mobiles,Trendz,1639,1210.54
+P1010,Mithas Mobiles 603,Electronics,Mobiles,Mithas,1099,805.38
+P1011,Nivara Mobiles 704,Electronics,Mobiles,Nivara,1499,1101.1
+P1012,Boltix Mobiles 139,Electronics,Mobiles,Boltix,19599,14061.42
+P1013,Veda Mobiles 196,Electronics,Mobiles,Veda,1279,927.02
+P1014,Pustak Mobiles 779,Electronics,Mobiles,Pustak,1589,1170.39
+P1015,Boltix Mobiles 512,Electronics,Mobiles,Boltix,4149,3045.04
+P1016,Veda Mobiles 222,Electronics,Mobiles,Veda,649,466.61
+P1017,UrbanLoom Earbuds 527,Electronics,Earbuds,UrbanLoom,8099,5827.71
+P1018,Veda Earbuds 625,Electronics,Earbuds,Veda,559,398.23
+P1019,Mithas Earbuds 347,Electronics,Earbuds,Mithas,23869,17036.72
+P1020,Kalpa Earbuds 591,Electronics,Earbuds,Kalpa,1339,971.34
+P1021,Pustak Earbuds 214,Electronics,Earbuds,Pustak,589,429.17
+P1022,Aarna Earbuds 476,Electronics,Earbuds,Aarna,1199,865.92
+P1023,Mithas Earbuds 885,Electronics,Earbuds,Mithas,10489,7485.17
+P1024,Fitora Earbuds 452,Electronics,Earbuds,Fitora,45469,33895.44
+P1025,Kalpa Earbuds 926,Electronics,Earbuds,Kalpa,12849,9247.07
+P1026,Veda Earbuds 821,Electronics,Earbuds,Veda,14869,10913.74
+P1027,Aarna Earbuds 279,Electronics,Earbuds,Aarna,5739,4152.54
+P1028,Fitora Earbuds 340,Electronics,Earbuds,Fitora,2719,2012.97
+P1029,Swadesh Earbuds 585,Electronics,Earbuds,Swadesh,5999,4303.7
+P1030,Veda Earbuds 377,Electronics,Earbuds,Veda,43249,31878.84
+P1031,Veda Earbuds 371,Electronics,Earbuds,Veda,1959,1413.02
+P1032,Veda Earbuds 169,Electronics,Earbuds,Veda,10679,7769.08
+P1033,Veda Earbuds 154,Electronics,Earbuds,Veda,30969,22119.48
+P1034,Mithas Earbuds 394,Electronics,Earbuds,Mithas,1739,1277.13
+P1035,Veda Earbuds 188,Electronics,Earbuds,Veda,999,739.99
+P1036,Trendz Earbuds 618,Electronics,Earbuds,Trendz,509,379.19
+P1037,Nivara Earbuds 606,Electronics,Earbuds,Nivara,789,573.37
+P1038,Fitora Smartwatches 404,Electronics,Smartwatches,Fitora,5799,4322.26
+P1039,Veda Smartwatches 168,Electronics,Smartwatches,Veda,22959,16400.22
+P1040,Boltix Smartwatches 723,Electronics,Smartwatches,Boltix,1559,1115.89
+P1041,Trendz Smartwatches 165,Electronics,Smartwatches,Trendz,1159,858.4
+P1042,Swadesh Smartwatches 806,Electronics,Smartwatches,Swadesh,999,728.27
+P1043,Boltix Smartwatches 177,Electronics,Smartwatches,Boltix,3529,2601.78
+P1044,Nivara Smartwatches 219,Electronics,Smartwatches,Nivara,1089,794.13
+P1045,UrbanLoom Smartwatches 647,Electronics,Smartwatches,UrbanLoom,1079,777.95
+P1046,Pustak Smartwatches 447,Electronics,Smartwatches,Pustak,61569,45749.05
+P1047,Nivara Smartwatches 780,Electronics,Smartwatches,Nivara,719,513.1
+P1048,Boltix Smartwatches 638,Electronics,Smartwatches,Boltix,8879,6338.77
+P1049,Trendz Smartwatches 575,Electronics,Smartwatches,Trendz,3169,2339.97
+P1050,Swadesh Smartwatches 982,Electronics,Smartwatches,Swadesh,18499,13833.43
+P1051,Aarna Smartwatches 286,Electronics,Smartwatches,Aarna,43739,31192.5
+P1052,Pustak Smartwatches 407,Electronics,Smartwatches,Pustak,1679,1217.39
+P1053,Pustak Smartwatches 574,Electronics,Smartwatches,Pustak,909,675.1
+P1054,Nivara Smartwatches 455,Electronics,Smartwatches,Nivara,1049,750.89
+P1055,Fitora Smartwatches 707,Electronics,Smartwatches,Fitora,61269,44325.59
+P1056,UrbanLoom Chargers 314,Electronics,Chargers,UrbanLoom,729,522.37
+P1057,Aarna Chargers 972,Electronics,Chargers,Aarna,48889,35777.73
+P1058,Fitora Chargers 431,Electronics,Chargers,Fitora,17959,12973.44
+P1059,Fitora Chargers 209,Electronics,Chargers,Fitora,1049,745.97
+P1060,Trendz Chargers 906,Electronics,Chargers,Trendz,2269,1700.42
+P1061,Trendz Chargers 942,Electronics,Chargers,Trendz,28609,21448.18
+P1062,Nivara Chargers 826,Electronics,Chargers,Nivara,3319,2489.72
+P1063,UrbanLoom Chargers 332,Electronics,Chargers,UrbanLoom,2199,1638.24
+P1064,UrbanLoom Chargers 323,Electronics,Chargers,UrbanLoom,769,570.87
+P1065,Boltix Chargers 119,Electronics,Chargers,Boltix,57379,42756.54
+P1066,Kalpa Chargers 785,Electronics,Chargers,Kalpa,25409,18590.87
+P1067,Nivara Chargers 411,Electronics,Chargers,Nivara,3259,2318.9
+P1068,Veda Chargers 335,Electronics,Chargers,Veda,34009,24892.83
+P1069,Trendz Chargers 841,Electronics,Chargers,Trendz,18859,14058.63
+P1070,Trendz Laptops 222,Electronics,Laptops,Trendz,26969,19697.5
+P1071,Aarna Laptops 165,Electronics,Laptops,Aarna,5899,4297.71
+P1072,Pustak Laptops 638,Electronics,Laptops,Pustak,26089,18844.95
+P1073,Veda Laptops 319,Electronics,Laptops,Veda,629,465.55
+P1074,Swadesh Laptops 668,Electronics,Laptops,Swadesh,619,451.8
+P1075,Fitora Laptops 737,Electronics,Laptops,Fitora,669,496.9
+P1076,Fitora Laptops 405,Electronics,Laptops,Fitora,47889,35924.92
+P1077,Mithas Laptops 107,Electronics,Laptops,Mithas,34749,26056.81
+P1078,Zentra Laptops 695,Electronics,Laptops,Zentra,3419,2453.94
+P1079,Kalpa Laptops 272,Electronics,Laptops,Kalpa,49649,36524.32
+P1080,Pustak Laptops 116,Electronics,Laptops,Pustak,2069,1545.28
+P1081,Boltix Laptops 525,Electronics,Laptops,Boltix,40649,30094.6
+P1082,UrbanLoom Laptops 386,Electronics,Laptops,UrbanLoom,16289,11599.71
+P1083,Pustak Men Topwear 475,Fashion,Men Topwear,Pustak,4739,2187.03
+P1084,Trendz Men Topwear 869,Fashion,Men Topwear,Trendz,4409,2028.29
+P1085,Mithas Men Topwear 202,Fashion,Men Topwear,Mithas,1619,759.69
+P1086,Swadesh Men Topwear 931,Fashion,Men Topwear,Swadesh,709,363.13
+P1087,Kalpa Men Topwear 847,Fashion,Men Topwear,Kalpa,1189,628.62
+P1088,Mithas Men Topwear 804,Fashion,Men Topwear,Mithas,399,215.87
+P1089,Kalpa Men Topwear 923,Fashion,Men Topwear,Kalpa,3239,1710.96
+P1090,Veda Men Topwear 115,Fashion,Men Topwear,Veda,1979,944.99
+P1091,Zentra Men Topwear 337,Fashion,Men Topwear,Zentra,1089,508.84
+P1092,Mithas Men Topwear 840,Fashion,Men Topwear,Mithas,949,497.87
+P1093,Pustak Men Topwear 702,Fashion,Men Topwear,Pustak,4339,2141.33
+P1094,Veda Men Topwear 772,Fashion,Men Topwear,Veda,419,214.55
+P1095,Boltix Men Topwear 879,Fashion,Men Topwear,Boltix,2259,1104.58
+P1096,Nivara Men Topwear 865,Fashion,Men Topwear,Nivara,1219,590.67
+P1097,Swadesh Men Topwear 919,Fashion,Men Topwear,Swadesh,2579,1444.9
+P1098,Zentra Men Topwear 211,Fashion,Men Topwear,Zentra,1219,
+P1099,Trendz Men Topwear 747,Fashion,Men Topwear,Trendz,1009,567.38
+P1100,Pustak Men Topwear 201,Fashion,Men Topwear,Pustak,1719,916.44
+P1101,Zentra Men Topwear 721,Fashion,Men Topwear,Zentra,1349,694.01
+P1102,Pustak Men Topwear 256,Fashion,Men Topwear,Pustak,2339,1161.76
+P1103,Boltix Women Ethnic 415,Fashion,Women Ethnic,Boltix,459,208.64
+P1104,Veda Women Ethnic 391,Fashion,Women Ethnic,Veda,589,283.45
+P1105,Kalpa Women Ethnic 408,Fashion,Women Ethnic,Kalpa,4869,2326.88
+P1106,Swadesh Women Ethnic 407,Fashion,Women Ethnic,Swadesh,449,251.4
+P1107,UrbanLoom Women Ethnic 491,Fashion,Women Ethnic,UrbanLoom,1949,963.15
+P1108,Fitora Women Ethnic 958,Fashion,Women Ethnic,Fitora,479,244.44
+P1109,Zentra Women Ethnic 993,Fashion,Women Ethnic,Zentra,1329,653.23
+P1110,Swadesh Women Ethnic 218,Fashion,Women Ethnic,Swadesh,969,464.7
+P1111,Veda Women Ethnic 820,Fashion,Women Ethnic,Veda,769,396.5
+P1112,Veda Women Ethnic 369,Fashion,Women Ethnic,Veda,1109,506.85
+P1113,Mithas Women Ethnic 829,Fashion,Women Ethnic,Mithas,329,156.63
+P1114,UrbanLoom Women Ethnic 792,Fashion,Women Ethnic,UrbanLoom,1039,554.14
+P1115,Veda Women Ethnic 877,Fashion,Women Ethnic,Veda,4669,2138.24
+P1116,UrbanLoom Women Ethnic 537,Fashion,Women Ethnic,UrbanLoom,2759,1537.51
+P1117,Trendz Women Ethnic 348,Fashion,Women Ethnic,Trendz,809,382.66
+P1118,UrbanLoom Women Ethnic 497,Fashion,Women Ethnic,UrbanLoom,639,353.56
+P1119,Aarna Women Ethnic 485,Fashion,Women Ethnic,Aarna,2189,1232.75
+P1120,Mithas Women Ethnic 221,Fashion,Women Ethnic,Mithas,2059,941.57
+P1121,Kalpa Women Ethnic 538,Fashion,Women Ethnic,Kalpa,3559,1903.28
+P1122,UrbanLoom Women Ethnic 980,Fashion,Women Ethnic,UrbanLoom,1599,733.42
+P1123,Pustak Women Ethnic 538,Fashion,Women Ethnic,Pustak,969,540.63
+P1124,Swadesh Women Ethnic 175,Fashion,Women Ethnic,Swadesh,799,367.07
+P1125,Trendz Women Ethnic 567,Fashion,Women Ethnic,Trendz,959,484.68
+P1126,Veda Footwear 776,Fashion,Footwear,Veda,979,487.75
+P1127,Mithas Footwear 436,Fashion,Footwear,Mithas,1919,959.16
+P1128,Mithas Footwear 682,Fashion,Footwear,Mithas,2089,1023.47
+P1129,Pustak Footwear 341,Fashion,Footwear,Pustak,3669,2047.18
+P1130,Kalpa Footwear 729,Fashion,Footwear,Kalpa,329,176.13
+P1131,Nivara Footwear 165,Fashion,Footwear,Nivara,1239,570.85
+P1132,Nivara Footwear 212,Fashion,Footwear,Nivara,1569,825.95
+P1133,Zentra Footwear 879,Fashion,Footwear,Zentra,719,335.87
+P1134,Swadesh Footwear 448,Fashion,Footwear,Swadesh,2769,1270.11
+P1135,Swadesh Footwear 694,Fashion,Footwear,Swadesh,649,332.05
+P1136,Trendz Footwear 269,Fashion,Footwear,Trendz,1029,563.29
+P1137,Mithas Footwear 701,Fashion,Footwear,Mithas,3029,1393.95
+P1138,Boltix Footwear 154,Fashion,Footwear,Boltix,2039,1147.97
+P1139,Zentra Footwear 325,Fashion,Footwear,Zentra,2289,1250.5
+P1140,Boltix Accessories 642,Fashion,Accessories,Boltix,2439,1349.19
+P1141,Fitora Accessories 416,Fashion,Accessories,Fitora,3729,1781.59
+P1142,Trendz Accessories 443,Fashion,Accessories,Trendz,519,265.66
+P1143,Pustak Accessories 215,Fashion,Accessories,Pustak,319,144.96
+P1144,Mithas Accessories 745,Fashion,Accessories,Mithas,1009,553.52
+P1145,Zentra Accessories 944,Fashion,Accessories,Zentra,1439,797.6
+P1146,Pustak Accessories 841,Fashion,Accessories,Pustak,549,256.08
+P1147,Trendz Accessories 196,Fashion,Accessories,Trendz,3939,1811.98
+P1148,UrbanLoom Accessories 842,Fashion,Accessories,UrbanLoom,779,405.16
+P1149,Aarna Accessories 572,Fashion,Accessories,Aarna,4699,2146.72
+P1150,Nivara Accessories 970,Fashion,Accessories,Nivara,4459,2374.92
+P1151,Trendz Accessories 492,Fashion,Accessories,Trendz,859,444.7
+P1152,UrbanLoom Accessories 179,Fashion,Accessories,UrbanLoom,599,280.46
+P1153,Fitora Accessories 598,Fashion,Accessories,Fitora,4339,2270.33
+P1154,Swadesh Accessories 538,Fashion,Accessories,Swadesh,1269,720.47
+P1155,Veda Accessories 300,Fashion,Accessories,Veda,709,340.24
+P1156,UrbanLoom Accessories 489,Fashion,Accessories,UrbanLoom,869,394.65
+P1157,Trendz Accessories 932,Fashion,Accessories,Trendz,3569,1642.57
+P1158,Aarna Accessories 387,Fashion,Accessories,Aarna,859,444.98
+P1159,Boltix Accessories 137,Fashion,Accessories,Boltix,2129,1085.95
+P1160,Zentra Accessories 979,Fashion,Accessories,Zentra,4539,2572.67
+P1161,Zentra Accessories 464,Fashion,Accessories,Zentra,4269,2465.77
+P1162,Pustak Accessories 995,Fashion,Accessories,Pustak,1069,594.94
+P1163,Boltix Kids Wear 324,Fashion,Kids Wear,Boltix,349,172.87
+P1164,Veda Kids Wear 376,Fashion,Kids Wear,Veda,699,380.65
+P1165,Fitora Kids Wear 633,Fashion,Kids Wear,Fitora,389,188.83
+P1166,Boltix Kids Wear 303,Fashion,Kids Wear,Boltix,4729,2634.64
+P1167,UrbanLoom Kids Wear 390,Fashion,Kids Wear,UrbanLoom,2189,1124.09
+P1168,Nivara Kids Wear 477,Fashion,Kids Wear,Nivara,2199,1167.29
+P1169,Pustak Kids Wear 510,Fashion,Kids Wear,Pustak,1029,594.33
+P1170,Pustak Kids Wear 647,Fashion,Kids Wear,Pustak,509,292.92
+P1171,Swadesh Kids Wear 495,Fashion,Kids Wear,Swadesh,649,338.74
+P1172,Trendz Kids Wear 886,Fashion,Kids Wear,Trendz,339,191.96
+P1173,Boltix Kids Wear 990,Fashion,Kids Wear,Boltix,3519,1953.55
+P1174,Kalpa Kids Wear 208,Fashion,Kids Wear,Kalpa,359,168.77
+P1175,Kalpa Kids Wear 631,Fashion,Kids Wear,Kalpa,4619,2116.3
+P1176,Mithas Kids Wear 611,Fashion,Kids Wear,Mithas,2609,1206.22
+P1177,UrbanLoom Kids Wear 470,Fashion,Kids Wear,UrbanLoom,1119,544.79
+P1178,Mithas Kids Wear 418,Fashion,Kids Wear,Mithas,2459,1272.97
+P1179,UrbanLoom Cookware 243,Home & Kitchen,Cookware,UrbanLoom,329,196.83
+P1180,Boltix Cookware 287,Home & Kitchen,Cookware,Boltix,379,239.74
+P1181,Kalpa Cookware 446,Home & Kitchen,Cookware,Kalpa,7209,4545.65
+P1182,Mithas Cookware 371,Home & Kitchen,Cookware,Mithas,2989,1768.02
+P1183,Swadesh Cookware 642,Home & Kitchen,Cookware,Swadesh,5939,3666.13
+P1184,Swadesh Cookware 217,Home & Kitchen,Cookware,Swadesh,4869,2717.47
+P1185,Kalpa Cookware 382,Home & Kitchen,Cookware,Kalpa,9439,5401.86
+P1186,Boltix Cookware 355,Home & Kitchen,Cookware,Boltix,8719,5523.03
+P1187,Trendz Cookware 981,Home & Kitchen,Cookware,Trendz,399,236.51
+P1188,Swadesh Cookware 617,Home & Kitchen,Cookware,Swadesh,819,494.8
+P1189,Zentra Cookware 790,Home & Kitchen,Cookware,Zentra,629,389.15
+P1190,Swadesh Cookware 386,Home & Kitchen,Cookware,Swadesh,1189,725.98
+P1191,Fitora Cookware 343,Home & Kitchen,Cookware,Fitora,469,290.72
+P1192,Boltix Cookware 686,Home & Kitchen,Cookware,Boltix,259,151.56
+P1193,Fitora Cookware 827,Home & Kitchen,Cookware,Fitora,729,416.06
+P1194,Trendz Cookware 130,Home & Kitchen,Cookware,Trendz,8039,4786.33
+P1195,Swadesh Cookware 305,Home & Kitchen,Cookware,Swadesh,3389,1972.27
+P1196,Fitora Cookware 420,Home & Kitchen,Cookware,Fitora,1169,664.68
+P1197,UrbanLoom Bedsheets 646,Home & Kitchen,Bedsheets,UrbanLoom,969,590.87
+P1198,Swadesh Bedsheets 674,Home & Kitchen,Bedsheets,Swadesh,1439,849.44
+P1199,Nivara Bedsheets 311,Home & Kitchen,Bedsheets,Nivara,349,219.14
+P1200,UrbanLoom Bedsheets 454,Home & Kitchen,Bedsheets,UrbanLoom,2109,1310.05
+P1201,Aarna Bedsheets 790,Home & Kitchen,Bedsheets,Aarna,239,152.73
+P1202,Boltix Bedsheets 509,Home & Kitchen,Bedsheets,Boltix,949,571.26
+P1203,Trendz Bedsheets 737,Home & Kitchen,Bedsheets,Trendz,349,217.41
+P1204,Veda Bedsheets 439,Home & Kitchen,Bedsheets,Veda,2619,1559.96
+P1205,Boltix Bedsheets 958,Home & Kitchen,Bedsheets,Boltix,1269,776.47
+P1206,Veda Bedsheets 424,Home & Kitchen,Bedsheets,Veda,369,220.55
+P1207,Aarna Bedsheets 925,Home & Kitchen,Bedsheets,Aarna,259,162.03
+P1208,Mithas Bedsheets 463,Home & Kitchen,Bedsheets,Mithas,9029,5349.22
+P1209,Boltix Bedsheets 158,Home & Kitchen,Bedsheets,Boltix,3269,1979.71
+P1210,Nivara Decor 269,Home & Kitchen,Decor,Nivara,399,250.84
+P1211,Mithas Decor 601,Home & Kitchen,Decor,Mithas,2169,1200.17
+P1212,Boltix Decor 510,Home & Kitchen,Decor,Boltix,8179,4651.43
+P1213,Zentra Decor 712,Home & Kitchen,Decor,Zentra,399,226.87
+P1214,Swadesh Decor 285,Home & Kitchen,Decor,Swadesh,649,403.47
+P1215,Mithas Decor 978,Home & Kitchen,Decor,Mithas,7129,4459.58
+P1216,Swadesh Decor 870,Home & Kitchen,Decor,Swadesh,249,144.57
+P1217,Fitora Decor 767,Home & Kitchen,Decor,Fitora,3239,1964.9
+P1218,Swadesh Decor 553,Home & Kitchen,Decor,Swadesh,2519,1566.37
+P1219,Zentra Decor 903,Home & Kitchen,Decor,Zentra,569,343.14
+P1220,Pustak Decor 423,Home & Kitchen,Decor,Pustak,239,145.37
+P1221,Veda Decor 876,Home & Kitchen,Decor,Veda,269,149.51
+P1222,Swadesh Decor 575,Home & Kitchen,Decor,Swadesh,5319,3050.52
+P1223,Fitora Decor 835,Home & Kitchen,Decor,Fitora,1649,933.29
+P1224,Pustak Decor 542,Home & Kitchen,Decor,Pustak,789,491.57
+P1225,Swadesh Decor 474,Home & Kitchen,Decor,Swadesh,3299,1980.06
+P1226,Kalpa Decor 985,Home & Kitchen,Decor,Kalpa,10459,6670.03
+P1227,Swadesh Decor 679,Home & Kitchen,Decor,Swadesh,209,120.87
+P1228,Aarna Storage 432,Home & Kitchen,Storage,Aarna,3649,2180.26
+P1229,Swadesh Storage 789,Home & Kitchen,Storage,Swadesh,1959,1168.99
+P1230,Veda Storage 578,Home & Kitchen,Storage,Veda,699,405.95
+P1231,Mithas Storage 525,Home & Kitchen,Storage,Mithas,249,152.4
+P1232,Fitora Storage 449,Home & Kitchen,Storage,Fitora,7839,4590.63
+P1233,Veda Storage 831,Home & Kitchen,Storage,Veda,1289,718.81
+P1234,Boltix Storage 117,Home & Kitchen,Storage,Boltix,279,161.42
+P1235,Fitora Storage 598,Home & Kitchen,Storage,Fitora,2649,1600.09
+P1236,Fitora Storage 732,Home & Kitchen,Storage,Fitora,4299,2602.4
+P1237,Zentra Storage 964,Home & Kitchen,Storage,Zentra,749,454.16
+P1238,Aarna Storage 963,Home & Kitchen,Storage,Aarna,469,271.28
+P1239,Fitora Storage 790,Home & Kitchen,Storage,Fitora,1959,1221.33
+P1240,Boltix Storage 345,Home & Kitchen,Storage,Boltix,1959,1104.6
+P1241,Boltix Storage 295,Home & Kitchen,Storage,Boltix,349,216.87
+P1242,Aarna Storage 219,Home & Kitchen,Storage,Aarna,1199,711.57
+P1243,Trendz Storage 107,Home & Kitchen,Storage,Trendz,4009,2251.47
+P1244,Fitora Storage 145,Home & Kitchen,Storage,Fitora,6549,4176.47
+P1245,Pustak Storage 381,Home & Kitchen,Storage,Pustak,2089,1250.24
+P1246,Kalpa Storage 673,Home & Kitchen,Storage,Kalpa,2039,1174.6
+P1247,Trendz Storage 645,Home & Kitchen,Storage,Trendz,6679,4236.59
+P1248,Mithas Storage 651,Home & Kitchen,Storage,Mithas,349,201.79
+P1249,Fitora Storage 566,Home & Kitchen,Storage,Fitora,4379,2576.02
+P1250,Veda Storage 413,Home & Kitchen,Storage,Veda,10809,6746.66
+P1251,Veda Storage 925,Home & Kitchen,Storage,Veda,10569,6800.32
+P1252,Boltix Appliances 989,Home & Kitchen,Appliances,Boltix,4049,2595.87
+P1253,UrbanLoom Appliances 833,Home & Kitchen,Appliances,UrbanLoom,229,142.59
+P1254,Aarna Appliances 446,Home & Kitchen,Appliances,Aarna,569,328.09
+P1255,Zentra Appliances 342,Home & Kitchen,Appliances,Zentra,6319,3989.89
+P1256,Mithas Appliances 340,Home & Kitchen,Appliances,Mithas,10069,6242.69
+P1257,Trendz Appliances 371,Home & Kitchen,Appliances,Trendz,11199,7169.66
+P1258,Swadesh Appliances 263,Home & Kitchen,Appliances,Swadesh,2109,1190.09
+P1259,Aarna Appliances 930,Home & Kitchen,Appliances,Aarna,859,490.44
+P1260,Pustak Appliances 647,Home & Kitchen,Appliances,Pustak,229,137.29
+P1261,Mithas Appliances 471,Home & Kitchen,Appliances,Mithas,459,259.06
+P1262,Swadesh Appliances 760,Home & Kitchen,Appliances,Swadesh,3359,2138.01
+P1263,Fitora Appliances 565,Home & Kitchen,Appliances,Fitora,3059,1700.1
+P1264,Pustak Appliances 752,Home & Kitchen,Appliances,Pustak,5239,2914.82
+P1265,Zentra Appliances 859,Home & Kitchen,Appliances,Zentra,5109,
+P1266,Zentra Appliances 454,Home & Kitchen,Appliances,Zentra,689,425.66
+P1267,Fitora Appliances 486,Home & Kitchen,Appliances,Fitora,3969,2248.45
+P1268,UrbanLoom Appliances 435,Home & Kitchen,Appliances,UrbanLoom,269,169.96
+P1269,Zentra Appliances 255,Home & Kitchen,Appliances,Zentra,959,574.83
+P1270,Fitora Appliances 660,Home & Kitchen,Appliances,Fitora,1399,828.33
+P1271,Veda Appliances 113,Home & Kitchen,Appliances,Veda,1589,878.92
+P1272,Aarna Skincare 239,Beauty,Skincare,Aarna,309,149.08
+P1273,Kalpa Skincare 119,Beauty,Skincare,Kalpa,1139,491.62
+P1274,Fitora Skincare 680,Beauty,Skincare,Fitora,349,183.91
+P1275,Mithas Skincare 422,Beauty,Skincare,Mithas,2039,1070.58
+P1276,Kalpa Skincare 377,Beauty,Skincare,Kalpa,159,79.22
+P1277,Aarna Skincare 599,Beauty,Skincare,Aarna,169,82.42
+P1278,Nivara Skincare 219,Beauty,Skincare,Nivara,649,323.01
+P1279,Zentra Skincare 421,Beauty,Skincare,Zentra,2719,1197.85
+P1280,Pustak Skincare 210,Beauty,Skincare,Pustak,219,90.19
+P1281,Zentra Skincare 697,Beauty,Skincare,Zentra,1039,510.91
+P1282,Pustak Skincare 934,Beauty,Skincare,Pustak,1459,787.4
+P1283,Trendz Skincare 878,Beauty,Skincare,Trendz,249,134.48
+P1284,Veda Skincare 174,Beauty,Skincare,Veda,439,216.97
+P1285,Trendz Skincare 261,Beauty,Skincare,Trendz,569,307.11
+P1286,Aarna Skincare 562,Beauty,Skincare,Aarna,519,232.69
+P1287,Veda Skincare 162,Beauty,Skincare,Veda,1319,646.38
+P1288,Veda Skincare 636,Beauty,Skincare,Veda,1879,811.58
+P1289,Trendz Haircare 681,Beauty,Haircare,Trendz,409,220.62
+P1290,Kalpa Haircare 285,Beauty,Haircare,Kalpa,219,117.04
+P1291,Mithas Haircare 215,Beauty,Haircare,Mithas,2599,1086.07
+P1292,Fitora Haircare 895,Beauty,Haircare,Fitora,809,426.88
+P1293,UrbanLoom Haircare 608,Beauty,Haircare,UrbanLoom,1489,638.89
+P1294,Zentra Haircare 365,Beauty,Haircare,Zentra,159,79.01
+P1295,Fitora Haircare 285,Beauty,Haircare,Fitora,929,497.49
+P1296,Pustak Haircare 816,Beauty,Haircare,Pustak,2549,1269.04
+P1297,Fitora Haircare 391,Beauty,Haircare,Fitora,2819,1489.9
+P1298,Pustak Haircare 789,Beauty,Haircare,Pustak,189,88.75
+P1299,Trendz Haircare 515,Beauty,Haircare,Trendz,599,284.87
+P1300,Zentra Haircare 854,Beauty,Haircare,Zentra,339,168.34
+P1301,UrbanLoom Haircare 374,Beauty,Haircare,UrbanLoom,169,78.5
+P1302,Fitora Haircare 571,Beauty,Haircare,Fitora,1199,631.44
+P1303,Zentra Haircare 482,Beauty,Haircare,Zentra,1509,829.73
+P1304,Aarna Haircare 967,Beauty,Haircare,Aarna,1339,688.83
+P1305,Boltix Haircare 547,Beauty,Haircare,Boltix,1429,697.16
+P1306,Boltix Haircare 784,Beauty,Haircare,Boltix,1969,929.85
+P1307,Kalpa Haircare 421,Beauty,Haircare,Kalpa,199,101.02
+P1308,UrbanLoom Makeup 429,Beauty,Makeup,UrbanLoom,2289,991.43
+P1309,Nivara Makeup 309,Beauty,Makeup,Nivara,1479,681.69
+P1310,Zentra Makeup 117,Beauty,Makeup,Zentra,299,152.26
+P1311,Pustak Makeup 260,Beauty,Makeup,Pustak,1259,583.65
+P1312,Boltix Makeup 378,Beauty,Makeup,Boltix,1479,794.06
+P1313,Trendz Makeup 218,Beauty,Makeup,Trendz,889,489.62
+P1314,Trendz Makeup 339,Beauty,Makeup,Trendz,219,100.01
+P1315,Kalpa Makeup 925,Beauty,Makeup,Kalpa,399,178.6
+P1316,UrbanLoom Makeup 698,Beauty,Makeup,UrbanLoom,2889,1583.57
+P1317,UrbanLoom Makeup 342,Beauty,Makeup,UrbanLoom,229,103.75
+P1318,Swadesh Makeup 284,Beauty,Makeup,Swadesh,1029,466.94
+P1319,Veda Makeup 700,Beauty,Makeup,Veda,339,172.14
+P1320,Veda Makeup 544,Beauty,Makeup,Veda,279,115.61
+P1321,UrbanLoom Makeup 416,Beauty,Makeup,UrbanLoom,1039,497.5
+P1322,Swadesh Makeup 128,Beauty,Makeup,Swadesh,559,255.52
+P1323,Boltix Makeup 580,Beauty,Makeup,Boltix,279,151.0
+P1324,Zentra Makeup 115,Beauty,Makeup,Zentra,1599,809.57
+P1325,Nivara Makeup 794,Beauty,Makeup,Nivara,469,194.81
+P1326,Pustak Makeup 225,Beauty,Makeup,Pustak,259,120.29
+P1327,Nivara Makeup 121,Beauty,Makeup,Nivara,289,149.93
+P1328,Trendz Makeup 595,Beauty,Makeup,Trendz,299,146.02
+P1329,Kalpa Makeup 359,Beauty,Makeup,Kalpa,409,210.13
+P1330,Swadesh Makeup 514,Beauty,Makeup,Swadesh,1979,854.75
+P1331,Swadesh Makeup 545,Beauty,Makeup,Swadesh,2959,1247.66
+P1332,UrbanLoom Fragrance 355,Beauty,Fragrance,UrbanLoom,379,196.3
+P1333,Fitora Fragrance 814,Beauty,Fragrance,Fitora,879,365.1
+P1334,Veda Fragrance 677,Beauty,Fragrance,Veda,739,345.12
+P1335,Mithas Fragrance 831,Beauty,Fragrance,Mithas,529,246.24
+P1336,Boltix Fragrance 110,Beauty,Fragrance,Boltix,419,223.55
+P1337,Mithas Fragrance 776,Beauty,Fragrance,Mithas,1289,695.69
+P1338,Aarna Fragrance 736,Beauty,Fragrance,Aarna,1849,829.56
+P1339,Aarna Fragrance 419,Beauty,Fragrance,Aarna,219,93.86
+P1340,Kalpa Fragrance 773,Beauty,Fragrance,Kalpa,609,291.57
+P1341,Nivara Fragrance 936,Beauty,Fragrance,Nivara,449,
+P1342,Trendz Fragrance 792,Beauty,Fragrance,Trendz,729,384.98
+P1343,Nivara Fragrance 679,Beauty,Fragrance,Nivara,1149,589.25
+P1344,Kalpa Fragrance 969,Beauty,Fragrance,Kalpa,639,271.03
+P1345,Swadesh Fragrance 600,Beauty,Fragrance,Swadesh,1049,557.18
+P1346,Zentra Fragrance 565,Beauty,Fragrance,Zentra,869,455.21
+P1347,UrbanLoom Fragrance 170,Beauty,Fragrance,UrbanLoom,2889,1470.34
+P1348,Mithas Fragrance 996,Beauty,Fragrance,Mithas,159,74.83
+P1349,Pustak Fragrance 964,Beauty,Fragrance,Pustak,379,161.5
+P1350,Aarna Fragrance 233,Beauty,Fragrance,Aarna,179,77.12
+P1351,Mithas Fragrance 437,Beauty,Fragrance,Mithas,709,367.84
+P1352,Trendz Fragrance 450,Beauty,Fragrance,Trendz,1299,
+P1353,Swadesh Fragrance 551,Beauty,Fragrance,Swadesh,1009,504.42
+P1354,Fitora Fragrance 416,Beauty,Fragrance,Fitora,459,
+P1355,Swadesh Fragrance 359,Beauty,Fragrance,Swadesh,1639,820.29
+P1356,Pustak Staples 800,Grocery,Staples,Pustak,1049,741.29
+P1357,Zentra Staples 151,Grocery,Staples,Zentra,559,409.6
+P1358,Mithas Staples 524,Grocery,Staples,Mithas,139,97.86
+P1359,UrbanLoom Staples 895,Grocery,Staples,UrbanLoom,709,513.63
+P1360,Fitora Staples 994,Grocery,Staples,Fitora,629,457.51
+P1361,Zentra Staples 905,Grocery,Staples,Zentra,59,43.12
+P1362,Veda Staples 448,Grocery,Staples,Veda,569,409.97
+P1363,Trendz Staples 415,Grocery,Staples,Trendz,1219,875.35
+P1364,Trendz Staples 265,Grocery,Staples,Trendz,49,35.29
+P1365,Veda Staples 157,Grocery,Staples,Veda,479,345.26
+P1366,Aarna Staples 811,Grocery,Staples,Aarna,169,122.4
+P1367,Nivara Staples 948,Grocery,Staples,Nivara,1039,755.08
+P1368,Boltix Staples 759,Grocery,Staples,Boltix,179,129.7
+P1369,UrbanLoom Staples 975,Grocery,Staples,UrbanLoom,829,586.68
+P1370,Pustak Staples 101,Grocery,Staples,Pustak,89,63.9
+P1371,Zentra Staples 795,Grocery,Staples,Zentra,109,77.96
+P1372,Fitora Snacks 111,Grocery,Snacks,Fitora,389,273.91
+P1373,Zentra Snacks 223,Grocery,Snacks,Zentra,829,588.58
+P1374,Swadesh Snacks 753,Grocery,Snacks,Swadesh,79,54.78
+P1375,Fitora Snacks 490,Grocery,Snacks,Fitora,559,403.97
+P1376,Zentra Snacks 156,Grocery,Snacks,Zentra,1279,923.37
+P1377,Mithas Snacks 858,Grocery,Snacks,Mithas,379,263.05
+P1378,Kalpa Snacks 463,Grocery,Snacks,Kalpa,189,138.64
+P1379,UrbanLoom Snacks 436,Grocery,Snacks,UrbanLoom,59,41.62
+P1380,Fitora Snacks 445,Grocery,Snacks,Fitora,469,328.4
+P1381,Nivara Snacks 396,Grocery,Snacks,Nivara,869,615.63
+P1382,Fitora Snacks 659,Grocery,Snacks,Fitora,89,65.25
+P1383,Veda Snacks 828,Grocery,Snacks,Veda,759,555.95
+P1384,Swadesh Snacks 482,Grocery,Snacks,Swadesh,59,41.92
+P1385,Trendz Snacks 146,Grocery,Snacks,Trendz,219,156.7
+P1386,Trendz Snacks 685,Grocery,Snacks,Trendz,889,624.24
+P1387,Veda Snacks 241,Grocery,Snacks,Veda,69,48.84
+P1388,Trendz Snacks 737,Grocery,Snacks,Trendz,199,145.99
+P1389,Pustak Snacks 591,Grocery,Snacks,Pustak,89,62.99
+P1390,Mithas Snacks 976,Grocery,Snacks,Mithas,289,200.24
+P1391,Mithas Snacks 625,Grocery,Snacks,Mithas,79,57.15
+P1392,Mithas Beverages 268,Grocery,Beverages,Mithas,1199,863.21
+P1393,Trendz Beverages 702,Grocery,Beverages,Trendz,1089,801.06
+P1394,UrbanLoom Beverages 154,Grocery,Beverages,UrbanLoom,1309,933.03
+P1395,Fitora Beverages 668,Grocery,Beverages,Fitora,109,78.9
+P1396,Zentra Beverages 608,Grocery,Beverages,Zentra,799,577.27
+P1397,Veda Beverages 798,Grocery,Beverages,Veda,949,677.7
+P1398,Pustak Beverages 520,Grocery,Beverages,Pustak,259,184.39
+P1399,Swadesh Beverages 166,Grocery,Beverages,Swadesh,919,660.75
+P1400,Trendz Beverages 966,Grocery,Beverages,Trendz,639,466.42
+P1401,Swadesh Beverages 823,Grocery,Beverages,Swadesh,59,40.82
+P1402,Zentra Beverages 598,Grocery,Beverages,Zentra,559,405.94
+P1403,Boltix Beverages 749,Grocery,Beverages,Boltix,1299,915.51
+P1404,Mithas Beverages 887,Grocery,Beverages,Mithas,999,732.56
+P1405,UrbanLoom Beverages 300,Grocery,Beverages,UrbanLoom,49,34.04
+P1406,Mithas Beverages 682,Grocery,Beverages,Mithas,299,215.57
+P1407,Aarna Beverages 369,Grocery,Beverages,Aarna,209,144.91
+P1408,Boltix Dry Fruits 124,Grocery,Dry Fruits,Boltix,859,620.45
+P1409,Kalpa Dry Fruits 341,Grocery,Dry Fruits,Kalpa,89,62.83
+P1410,Nivara Dry Fruits 979,Grocery,Dry Fruits,Nivara,79,58.21
+P1411,Aarna Dry Fruits 871,Grocery,Dry Fruits,Aarna,1409,989.08
+P1412,Zentra Dry Fruits 261,Grocery,Dry Fruits,Zentra,959,677.84
+P1413,Trendz Dry Fruits 789,Grocery,Dry Fruits,Trendz,389,272.88
+P1414,Aarna Dry Fruits 173,Grocery,Dry Fruits,Aarna,959,674.72
+P1415,Aarna Dry Fruits 987,Grocery,Dry Fruits,Aarna,1319,936.0
+P1416,Kalpa Dry Fruits 830,Grocery,Dry Fruits,Kalpa,59,41.49
+P1417,Swadesh Dry Fruits 770,Grocery,Dry Fruits,Swadesh,179,125.03
+P1418,Kalpa Dry Fruits 864,Grocery,Dry Fruits,Kalpa,109,79.58
+P1419,Aarna Dry Fruits 922,Grocery,Dry Fruits,Aarna,1449,1012.63
+P1420,Boltix Dry Fruits 576,Grocery,Dry Fruits,Boltix,179,129.93
+P1421,Boltix Dry Fruits 970,Grocery,Dry Fruits,Boltix,199,140.55
+P1422,Veda Dry Fruits 809,Grocery,Dry Fruits,Veda,59,42.12
+P1423,Aarna Dry Fruits 788,Grocery,Dry Fruits,Aarna,509,361.77
+P1424,Pustak Dry Fruits 457,Grocery,Dry Fruits,Pustak,979,706.18
+P1425,Fitora Dry Fruits 936,Grocery,Dry Fruits,Fitora,179,129.77
+P1426,Veda Dry Fruits 591,Grocery,Dry Fruits,Veda,79,
+P1427,Pustak Dry Fruits 875,Grocery,Dry Fruits,Pustak,109,79.4
+P1428,Pustak Dry Fruits 349,Grocery,Dry Fruits,Pustak,599,421.65
+P1429,Boltix Dry Fruits 821,Grocery,Dry Fruits,Boltix,689,481.41
+P1430,Kalpa Dry Fruits 166,Grocery,Dry Fruits,Kalpa,409,300.85
+P1431,Veda Dry Fruits 834,Grocery,Dry Fruits,Veda,649,457.14
+P1432,Nivara Gym Equipment 472,Sports & Fitness,Gym Equipment,Nivara,10869,6096.64
+P1433,Boltix Gym Equipment 401,Sports & Fitness,Gym Equipment,Boltix,2759,1569.12
+P1434,Trendz Gym Equipment 953,Sports & Fitness,Gym Equipment,Trendz,1229,677.62
+P1435,Nivara Gym Equipment 671,Sports & Fitness,Gym Equipment,Nivara,9049,4950.62
+P1436,Aarna Gym Equipment 694,Sports & Fitness,Gym Equipment,Aarna,1259,752.32
+P1437,Trendz Gym Equipment 164,Sports & Fitness,Gym Equipment,Trendz,3069,1693.82
+P1438,Boltix Gym Equipment 984,Sports & Fitness,Gym Equipment,Boltix,1559,850.15
+P1439,Trendz Gym Equipment 339,Sports & Fitness,Gym Equipment,Trendz,3309,1879.72
+P1440,Veda Gym Equipment 524,Sports & Fitness,Gym Equipment,Veda,5789,3310.08
+P1441,Fitora Gym Equipment 223,Sports & Fitness,Gym Equipment,Fitora,9239,5368.34
+P1442,Pustak Gym Equipment 451,Sports & Fitness,Gym Equipment,Pustak,8869,4813.6
+P1443,Fitora Gym Equipment 460,Sports & Fitness,Gym Equipment,Fitora,2659,1414.7
+P1444,Veda Gym Equipment 412,Sports & Fitness,Gym Equipment,Veda,559,340.38
+P1445,UrbanLoom Gym Equipment 235,Sports & Fitness,Gym Equipment,UrbanLoom,14039,8688.92
+P1446,UrbanLoom Gym Equipment 647,Sports & Fitness,Gym Equipment,UrbanLoom,839,507.12
+P1447,Trendz Gym Equipment 580,Sports & Fitness,Gym Equipment,Trendz,1079,612.27
+P1448,Trendz Gym Equipment 652,Sports & Fitness,Gym Equipment,Trendz,2889,1629.33
+P1449,Mithas Gym Equipment 706,Sports & Fitness,Gym Equipment,Mithas,9279,5186.9
+P1450,Aarna Gym Equipment 949,Sports & Fitness,Gym Equipment,Aarna,1409,775.37
+P1451,Veda Gym Equipment 503,Sports & Fitness,Gym Equipment,Veda,2929,1842.09
+P1452,UrbanLoom Gym Equipment 227,Sports & Fitness,Gym Equipment,UrbanLoom,14229,8254.18
+P1453,Fitora Gym Equipment 393,Sports & Fitness,Gym Equipment,Fitora,1139,670.9
+P1454,Trendz Gym Equipment 108,Sports & Fitness,Gym Equipment,Trendz,2809,1728.81
+P1455,Fitora Gym Equipment 764,Sports & Fitness,Gym Equipment,Fitora,3299,1859.19
+P1456,Trendz Yoga 265,Sports & Fitness,Yoga,Trendz,359,211.49
+P1457,Aarna Yoga 210,Sports & Fitness,Yoga,Aarna,649,400.11
+P1458,Veda Yoga 415,Sports & Fitness,Yoga,Veda,2159,1268.04
+P1459,UrbanLoom Yoga 349,Sports & Fitness,Yoga,UrbanLoom,6609,3707.91
+P1460,Mithas Yoga 761,Sports & Fitness,Yoga,Mithas,689,385.21
+P1461,Zentra Yoga 757,Sports & Fitness,Yoga,Zentra,449,245.49
+P1462,Boltix Yoga 889,Sports & Fitness,Yoga,Boltix,1489,797.19
+P1463,Swadesh Yoga 926,Sports & Fitness,Yoga,Swadesh,10509,5721.75
+P1464,Kalpa Yoga 989,Sports & Fitness,Yoga,Kalpa,2069,1232.56
+P1465,Pustak Yoga 892,Sports & Fitness,Yoga,Pustak,12689,7436.25
+P1466,Pustak Yoga 157,Sports & Fitness,Yoga,Pustak,1229,741.54
+P1467,UrbanLoom Yoga 824,Sports & Fitness,Yoga,UrbanLoom,1689,957.07
+P1468,Boltix Yoga 558,Sports & Fitness,Yoga,Boltix,3599,2176.78
+P1469,UrbanLoom Yoga 171,Sports & Fitness,Yoga,UrbanLoom,359,209.53
+P1470,Kalpa Cycling 176,Sports & Fitness,Cycling,Kalpa,449,271.25
+P1471,Trendz Cycling 984,Sports & Fitness,Cycling,Trendz,2049,1105.76
+P1472,Kalpa Cycling 599,Sports & Fitness,Cycling,Kalpa,1419,816.01
+P1473,Nivara Cycling 870,Sports & Fitness,Cycling,Nivara,1149,691.42
+P1474,Nivara Cycling 915,Sports & Fitness,Cycling,Nivara,1589,947.59
+P1475,Boltix Cycling 882,Sports & Fitness,Cycling,Boltix,2209,1321.38
+P1476,Nivara Cycling 282,Sports & Fitness,Cycling,Nivara,12909,7263.33
+P1477,Fitora Cycling 582,Sports & Fitness,Cycling,Fitora,379,233.06
+P1478,Kalpa Cycling 654,Sports & Fitness,Cycling,Kalpa,3499,2062.03
+P1479,Swadesh Cycling 901,Sports & Fitness,Cycling,Swadesh,11179,6233.36
+P1480,Boltix Cycling 161,Sports & Fitness,Cycling,Boltix,4999,2992.27
+P1481,Zentra Cycling 449,Sports & Fitness,Cycling,Zentra,659,408.53
+P1482,Swadesh Cycling 613,Sports & Fitness,Cycling,Swadesh,1039,638.2
+P1483,Zentra Cycling 735,Sports & Fitness,Cycling,Zentra,449,272.19
+P1484,Swadesh Cycling 853,Sports & Fitness,Cycling,Swadesh,1939,1150.01
+P1485,Mithas Cycling 806,Sports & Fitness,Cycling,Mithas,439,244.63
+P1486,Fitora Sportswear 912,Sports & Fitness,Sportswear,Fitora,2459,1464.62
+P1487,Pustak Sportswear 570,Sports & Fitness,Sportswear,Pustak,1089,668.89
+P1488,Fitora Sportswear 114,Sports & Fitness,Sportswear,Fitora,3569,2068.21
+P1489,Veda Sportswear 904,Sports & Fitness,Sportswear,Veda,409,222.58
+P1490,Fitora Sportswear 759,Sports & Fitness,Sportswear,Fitora,649,396.65
+P1491,Fitora Sportswear 519,Sports & Fitness,Sportswear,Fitora,7409,4209.12
+P1492,Nivara Sportswear 443,Sports & Fitness,Sportswear,Nivara,2999,1622.8
+P1493,Boltix Sportswear 384,Sports & Fitness,Sportswear,Boltix,10189,6073.97
+P1494,Boltix Sportswear 965,Sports & Fitness,Sportswear,Boltix,3879,2329.49
+P1495,Nivara Sportswear 103,Sports & Fitness,Sportswear,Nivara,319,180.32
+P1496,Kalpa Sportswear 517,Sports & Fitness,Sportswear,Kalpa,1049,564.52
+P1497,Zentra Sportswear 180,Sports & Fitness,Sportswear,Zentra,949,549.26
+P1498,UrbanLoom Sportswear 925,Sports & Fitness,Sportswear,UrbanLoom,7729,4640.6
+P1499,Veda Sportswear 491,Sports & Fitness,Sportswear,Veda,5469,3125.57
+P1500,Aarna Sportswear 824,Sports & Fitness,Sportswear,Aarna,1669,916.42
+P1501,UrbanLoom Sportswear 652,Sports & Fitness,Sportswear,UrbanLoom,2519,1419.55
+P1502,Boltix Sportswear 895,Sports & Fitness,Sportswear,Boltix,1579,974.69
+P1503,Veda Sportswear 935,Sports & Fitness,Sportswear,Veda,339,205.17
+P1504,Aarna Sportswear 427,Sports & Fitness,Sportswear,Aarna,469,259.86
+P1505,Zentra Sportswear 538,Sports & Fitness,Sportswear,Zentra,12819,7099.76
+P1506,Pustak Fiction 824,Books,Fiction,Pustak,689,438.81
+P1507,Veda Fiction 664,Books,Fiction,Veda,99,57.95
+P1508,Fitora Fiction 104,Books,Fiction,Fitora,769,452.9
+P1509,Swadesh Fiction 577,Books,Fiction,Swadesh,99,58.73
+P1510,Fitora Fiction 714,Books,Fiction,Fitora,259,166.98
+P1511,Trendz Fiction 139,Books,Fiction,Trendz,929,568.1
+P1512,Nivara Fiction 137,Books,Fiction,Nivara,109,69.93
+P1513,Pustak Fiction 286,Books,Fiction,Pustak,99,64.47
+P1514,Trendz Fiction 137,Books,Fiction,Trendz,809,496.09
+P1515,Veda Fiction 838,Books,Fiction,Veda,469,297.12
+P1516,Aarna Fiction 209,Books,Fiction,Aarna,149,97.17
+P1517,Nivara Fiction 636,Books,Fiction,Nivara,329,196.93
+P1518,Nivara Fiction 857,Books,Fiction,Nivara,639,415.83
+P1519,Veda Fiction 165,Books,Fiction,Veda,549,324.41
+P1520,Kalpa Fiction 676,Books,Fiction,Kalpa,329,201.53
+P1521,Kalpa Fiction 570,Books,Fiction,Kalpa,359,210.9
+P1522,Boltix Fiction 800,Books,Fiction,Boltix,219,138.84
+P1523,Pustak Fiction 439,Books,Fiction,Pustak,109,71.01
+P1524,Trendz Fiction 173,Books,Fiction,Trendz,269,161.08
+P1525,Zentra Fiction 134,Books,Fiction,Zentra,389,237.45
+P1526,Trendz Self-Help 796,Books,Self-Help,Trendz,109,64.28
+P1527,Boltix Self-Help 115,Books,Self-Help,Boltix,109,63.43
+P1528,Trendz Self-Help 156,Books,Self-Help,Trendz,239,139.09
+P1529,Swadesh Self-Help 721,Books,Self-Help,Swadesh,109,71.8
+P1530,Nivara Self-Help 684,Books,Self-Help,Nivara,559,331.11
+P1531,Fitora Self-Help 821,Books,Self-Help,Fitora,149,90.12
+P1532,Aarna Self-Help 266,Books,Self-Help,Aarna,189,122.39
+P1533,Veda Self-Help 919,Books,Self-Help,Veda,129,77.12
+P1534,Nivara Self-Help 906,Books,Self-Help,Nivara,519,318.05
+P1535,Veda Self-Help 585,Books,Self-Help,Veda,829,487.27
+P1536,Aarna Self-Help 451,Books,Self-Help,Aarna,739,490.3
+P1537,Swadesh Self-Help 744,Books,Self-Help,Swadesh,969,583.82
+P1538,Swadesh Self-Help 428,Books,Self-Help,Swadesh,279,176.96
+P1539,Boltix Self-Help 940,Books,Self-Help,Boltix,229,
+P1540,Aarna Self-Help 424,Books,Self-Help,Aarna,369,
+P1541,Aarna Self-Help 754,Books,Self-Help,Aarna,289,174.03
+P1542,UrbanLoom Self-Help 487,Books,Self-Help,UrbanLoom,609,375.72
+P1543,UrbanLoom Self-Help 270,Books,Self-Help,UrbanLoom,189,120.81
+P1544,Trendz Self-Help 748,Books,Self-Help,Trendz,729,425.63
+P1545,UrbanLoom Exam Prep 647,Books,Exam Prep,UrbanLoom,519,324.78
+P1546,Veda Exam Prep 101,Books,Exam Prep,Veda,289,167.98
+P1547,Fitora Exam Prep 627,Books,Exam Prep,Fitora,369,239.49
+P1548,Veda Exam Prep 296,Books,Exam Prep,Veda,269,173.73
+P1549,Fitora Exam Prep 316,Books,Exam Prep,Fitora,349,212.43
+P1550,Nivara Exam Prep 438,Books,Exam Prep,Nivara,239,144.77
+P1551,Zentra Exam Prep 462,Books,Exam Prep,Zentra,469,275.21
+P1552,Boltix Exam Prep 745,Books,Exam Prep,Boltix,209,125.01
+P1553,Swadesh Exam Prep 526,Books,Exam Prep,Swadesh,159,105.3
+P1554,Boltix Exam Prep 342,Books,Exam Prep,Boltix,209,125.39
+P1555,Swadesh Exam Prep 122,Books,Exam Prep,Swadesh,159,105.26
+P1556,Zentra Exam Prep 228,Books,Exam Prep,Zentra,579,353.51
+P1557,Mithas Exam Prep 299,Books,Exam Prep,Mithas,159,94.93
+P1558,Nivara Exam Prep 688,Books,Exam Prep,Nivara,479,281.13
+P1559,Pustak Exam Prep 861,Books,Exam Prep,Pustak,739,482.35
+P1560,UrbanLoom Exam Prep 982,Books,Exam Prep,UrbanLoom,149,91.81
+P1561,Mithas Exam Prep 554,Books,Exam Prep,Mithas,349,210.42
+P1562,Mithas Exam Prep 234,Books,Exam Prep,Mithas,389,254.99
+P1563,Pustak Exam Prep 882,Books,Exam Prep,Pustak,199,125.49
+P1564,Boltix Exam Prep 614,Books,Exam Prep,Boltix,739,433.68
+P1565,Mithas Exam Prep 437,Books,Exam Prep,Mithas,759,469.26
+P1566,Mithas Kids Books 479,Books,Kids Books,Mithas,109,65.77
+P1567,Kalpa Kids Books 885,Books,Kids Books,Kalpa,819,517.03
+P1568,Nivara Kids Books 388,Books,Kids Books,Nivara,749,439.76
+P1569,Nivara Kids Books 606,Books,Kids Books,Nivara,139,91.89
+P1570,Nivara Kids Books 181,Books,Kids Books,Nivara,119,72.55
+P1571,Nivara Kids Books 804,Books,Kids Books,Nivara,159,100.97
+P1572,Trendz Kids Books 844,Books,Kids Books,Trendz,329,214.73
+P1573,Fitora Kids Books 552,Books,Kids Books,Fitora,489,291.16
+P1574,Kalpa Kids Books 862,Books,Kids Books,Kalpa,309,187.03
+P1575,Kalpa Kids Books 232,Books,Kids Books,Kalpa,119,74.54
+P1576,Trendz Kids Books 704,Books,Kids Books,Trendz,239,149.77
+P1577,Nivara Kids Books 548,Books,Kids Books,Nivara,599,365.75
+P1578,Aarna Kids Books 136,Books,Kids Books,Aarna,109,67.6
+P1579,Veda Kids Books 179,Books,Kids Books,Veda,329,216.35
+P1580,Nivara Kids Books 688,Books,Kids Books,Nivara,219,135.47
+P1581,Pustak Kids Books 529,Books,Kids Books,Pustak,179,113.64
+P1582,Fitora Kids Books 382,Books,Kids Books,Fitora,169,109.87
+P1583,Mithas Kids Books 989,Books,Kids Books,Mithas,379,249.72
+P1584,Mithas Kids Books 878,Books,Kids Books,Mithas,489,291.75
+P1585,Zentra Kids Books 988,Books,Kids Books,Zentra,189,123.45
+P1586,Kalpa Kids Books 642,Books,Kids Books,Kalpa,269,168.15
